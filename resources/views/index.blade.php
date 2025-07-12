@@ -6,12 +6,12 @@
     <title>Donut List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <script>
+    {{-- <script>
     // Auto-refresh every 3 minutes (180,000 ms)
     setInterval(() => {
         window.location.reload();
     }, 180000);
-    </script>
+    </script> --}}
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body class="bg-gray-100 min-h-screen p-6">
@@ -31,11 +31,11 @@
         @endif
 
 
-        {{-- <div class="flex justify-end mb-4">
+        <div class="flex justify-end mb-4">
             <a href="/fetch" class="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-2 px-4 rounded">
                 🔄 Fetch New Data
             </a>
-        </div> --}}
+        </div>
 
         <form method="GET" action="/" class="mb-6 flex flex-col sm:flex-row items-center justify-between gap-4">
             <input

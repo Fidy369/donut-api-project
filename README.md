@@ -1,6 +1,6 @@
 # donut-api-project
 ___
-<img width="1579" height="672" alt="image" src="https://github.com/user-attachments/assets/09d75293-799d-4953-b73b-edd075878be6" />
+<img width="1574" height="809" alt="image" src="https://github.com/user-attachments/assets/89e9a0ff-a745-441e-af9e-4d694c62d0f6" />
 This Laravel application retrieves data from a remote JSON API, stores it in a relational database, and displays it in a clean, responsive web interface. It features powerful filtering options, real-time syncing, and user-friendly error handling.
 
 ---

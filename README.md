@@ -13,10 +13,7 @@ This Laravel application retrieves data from a remote JSON API, stores it in a r
   - Donut name
   - Batter type
   - Topping type
-- 🔄 Auto-refresh every 3 minutes
-- ✅ User feedback messages (success & error)
-- 🎨 Responsive UI with Tailwind CSS + collapsible sections using Alpine.js
-- ⚙️ Seeder auto-populates the database for development
+  - 🎨 Responsive UI with Tailwind CSS + collapsible sections using Alpine.js
 
 ---
 

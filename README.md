@@ -34,3 +34,4 @@ This Laravel application retrieves data from a remote JSON API, stores it in a r
    ```bash
    git clone https://github.com/your-username/donut-api-project.git
    cd donut-api-project
+2. **The Port for my XAMPP is 3307 change at the .env db port**
